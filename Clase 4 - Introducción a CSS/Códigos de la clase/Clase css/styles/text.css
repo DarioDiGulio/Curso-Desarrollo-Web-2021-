@@ -1,0 +1,33 @@
+p {
+    /* Cambiando el color del texto */
+    color: red;
+    /* Cambiando el color de fondo */
+    background-color: aquamarine;
+    /* Alineación del texto, respecto al contenedor */
+    text-align: center;
+    /* Decoradores del texto */
+    text-decoration: line-through;
+    /* Mayúsuculas y minúsculas */
+    text-transform: capitalize;
+    /* indentado */
+    text-indent: 100px;
+    /* Espaciado entre letras */
+    letter-spacing: 2px;
+    /* Espaciado entre palabras */
+    word-spacing: 10px;
+    /* Interlineado */
+    line-height: 1.8;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-decoration: line-through;
+    color: green;
+    /* Sombra [horizontal*][vertical*][intensidad][color]*/
+    /* text-shadow: 2px 2px; */
+    /* text-shadow: 2px 2px blue; */
+    text-shadow: 2px 2px 10px blue;
+}

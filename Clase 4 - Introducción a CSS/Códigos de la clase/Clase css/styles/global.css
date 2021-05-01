@@ -1,0 +1,20 @@
+/* Selector de etiqueta */
+
+p,
+span {
+    color: red;
+}
+
+/* Selector de ID */
+
+#first-text {
+    text-align: right;
+    color: blue;
+}
+
+/* Selector de clase */
+
+.bold {
+    font-size: 1.5rem;
+    color: green;
+}
